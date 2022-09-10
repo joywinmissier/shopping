@@ -2,12 +2,12 @@
 	"products": [
     {
 		"id": 1,
-	    	"commentId : 1,
+	    	"commentId" : 1,
 		"comment": "new comment"
 	},
     {
 		"id": 2,
-	        "commentId : 2,
+	        "commentId" : 2,
 		"comment": "new comment 2"
 	}
   ]
